@@ -1,0 +1,3 @@
+../Core/Src/PWR_Standby.c:18:6:EnterStandbyPWR_Mode	16	static
+../Core/Src/PWR_Standby.c:61:6:EnterAlarmStnadby_Mode	16	static
+../Core/Src/PWR_Standby.c:78:6:RUN_PWR_Mode_Init	24	static

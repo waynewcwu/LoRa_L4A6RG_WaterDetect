@@ -1,0 +1,13 @@
+../Core/Src/stm32l4xx_it.c:77:6:NMI_Handler	8	static
+../Core/Src/stm32l4xx_it.c:140:6:HardFault_Handler	4	static
+../Core/Src/stm32l4xx_it.c:155:6:MemManage_Handler	4	static
+../Core/Src/stm32l4xx_it.c:170:6:BusFault_Handler	4	static
+../Core/Src/stm32l4xx_it.c:185:6:UsageFault_Handler	4	static
+../Core/Src/stm32l4xx_it.c:200:6:SVC_Handler	4	static
+../Core/Src/stm32l4xx_it.c:213:6:DebugMon_Handler	4	static
+../Core/Src/stm32l4xx_it.c:226:6:PendSV_Handler	4	static
+../Core/Src/stm32l4xx_it.c:239:6:SysTick_Handler	8	static
+../Core/Src/stm32l4xx_it.c:260:6:PVD_PVM_IRQHandler	8	static
+../Core/Src/stm32l4xx_it.c:280:6:FLASH_IRQHandler	8	static
+../Core/Src/stm32l4xx_it.c:294:6:TIM2_IRQHandler	8	static
+../Core/Src/stm32l4xx_it.c:308:6:USART1_IRQHandler	8	static
